@@ -118,7 +118,7 @@ Go to: [http://localhost:8501](http://localhost:8501)
 
 ## ✨ Credits
 
-Built with ❤️ by [Pavitr Swain ](https://github.com/Pavitr-Swain)  
+Built with ❤️ by [Jaya Lakshmi Katakam ](https://github.com/Jayakatakam)  
 Inspired by modern RAG architecture & OSS LLMs.
 
 ---
@@ -126,3 +126,4 @@ Inspired by modern RAG architecture & OSS LLMs.
 ## 📜 License
 
 MIT License. Feel free to fork, use, or modify for educational or commercial use.
+
