@@ -119,6 +119,7 @@ This project is licensed under the [Apache License 2.0](http://www.apache.org/li
 
 ## 👨‍💻 Author
 
-**Pavitr Swain**  
+**Jaya Lakshmi Katakam**  
   
-📫 [LinkedIn](https://www.linkedin.com/in/pavitr-swain/) | 🐙 [GitHub](https://github.com/Pavitr-Swain)
+
+📫 [LinkedIn](https://www.linkedin.com/in/jaya-lakshmi-katakam-b40258299) | 🐙 [GitHub](https://github.com/Jayakatakam)
