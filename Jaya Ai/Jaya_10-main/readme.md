@@ -1,6 +1,6 @@
-👋 Hi, I'm Pavitr Kumar Swain
+👋 Hi, I'm Jaya Lakshmi Katakam
 🚀 Aspiring AI/ML Engineer | Full Stack Developer | Future Cloud Architect
-🎓  BCA Graduate at University College of Science, Osmania University
+🎓  B tech final year student at CMR Institute of Technology
 🌐 Passionate about AI/ML, Full-Stack Development, Cloud Computing, and building tech that makes a real impact.
 
 🔧 Tech Stack
@@ -13,34 +13,11 @@ Scikit-learn • Pandas • NumPy • Matplotlib • NLTK • Firebase • MySQL
 Planning to explore: LangChain • RAG • Generative AI • Agentic AI
 
 📱 Projects
-💳 Credit Card Fraud Detection using Machine Learning
-Duration: Mar 2025 – Apr 2025
+🚦🚦Density Based Smart traffic using Canny Edge detection
+Duration: Jan 2025 – Apr 2025
 
-Built a fraud detection system using Logistic Regression & Random Forest models with SMOTE for class imbalance and PCA for dimensionality reduction.
 
-📊 Achieved high precision, recall, and F1-score
 
-🖥 GUI interface using Tkinter for easy use
-
-🔒 Secure and efficient fraud detection pipeline
-
-🚦 Semantic Segmentation on Indian Driving Dataset
-Duration: Apr 2025 – May 2025
-
-Implemented road scene understanding in unstructured environments using DeepLabV3 & PSPNet in PyTorch on Google Colab.
-
-🛣 Helps autonomous driving systems detect roads, pedestrians, and vehicles
-
-📷 Trained on Indian driving scenarios for realistic deployment
-
-🏅 Certifications
-🧠 IBM — AI Engineering & Machine Learning Specialization
-
-☁️ AWS & Microsoft — Cloud Fundamentals
-
-📊 BCG — Data Science Simulation
-
-🐍 Python & Data Analysis — Google, Infosys Springboard, HackerRank
 
 🎯 Aspirations
 🌩️ Become a Cloud + AI Engineer with strong backend & DevOps expertise
@@ -50,13 +27,12 @@ Implemented road scene understanding in unstructured environments using DeepLabV
 💡 Create scalable products that merge AI with real-world problem solving
 
 🤝 Connect with Me
-📬 Email: pavitrswain157@gmail.com
+📬 Email: kamjaya1703@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/jaya-lakshmi-katakam-b40258299
 
-💼 LinkedIn: https://www.linkedin.com/in/pavitr-swain/
+🔗 GitHub: 
 
-🔗 GitHub: https://github.com/Pavitr-Swain
-
-🌐 Portfolio: https://preview--pavitr-portfolio-design-master.lovable.app/
-
+🌐 Portfolio: https://portfolio-jaya.lovable.app/
 🧠 “Technology isn’t just about building tools — it’s about building futures.”
+
 
